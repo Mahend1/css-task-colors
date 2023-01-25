@@ -1,0 +1,305 @@
+body{
+    margin: 0;
+}
+.color {
+    background-color: green;
+    height: 50px;
+}
+
+.color2{
+    display: flex;
+}
+.one{
+    background-color:rgb(94, 15, 94) ;
+    width: 50%;
+    height:50px ;
+}
+.one2{
+    background-color: rgb(230, 34, 171);
+    width: 50%;
+    height: 50px;
+}
+.color3{
+    display: flex;
+}
+.one3{
+    background-color:rgb(78, 146, 78) ;
+    height: 50px;
+    width: 50%;
+}
+.one4{
+    background-color: rgb(100, 33, 16);
+    height: 50px;
+    width: 50%;
+}
+.one5{
+    background-color: rgb(190, 209, 16);
+    height: 50px;
+    width: 50%;
+}
+.color4{
+    display: flex;
+}
+.one6{
+    background-color: blue;
+    height: 50px;
+    width: 50%;
+}
+.one7{
+    background-color: rgb(145, 172, 28);
+    height: 50px;
+    width: 50%;
+}
+.one8{
+    background-color: rgb(99, 83, 83);
+    height: 50px;
+    width: 50%;
+}
+.one9{
+    background-color: rgb(155, 52, 52);
+    height: 50px;
+    width: 50%;
+}
+.color5{
+    display: flex;
+}
+.one11{
+    background-color: rgb(160, 43, 150);
+    height: 50px;
+    width: 50%;
+}
+.one12{
+    background-color: rgb(179, 240, 11);
+    height: 50px;
+    width: 50%;
+}
+.one13{
+    background-color: rgb(15, 196, 135);
+    height: 50px;
+    width: 50%;
+}
+.one14{
+    background-color: rgb(23, 42, 214);
+    height: 50px;
+    width: 50%;
+}
+.one15{
+    background-color: rgb(19, 4, 4);
+    height: 50px;
+    width: 50%;
+}
+.color6{
+    display: flex;
+}
+.two1{
+    background-color: rgb(165, 107, 32);
+    height: 50px;
+    width: 50%;
+}
+.two2{
+    background-color: rgb(103, 21, 180);
+    height: 50px;
+    width: 50%;
+}
+.two3{
+    background-color: azure;
+    height: 50px;
+    width: 50%;
+}
+.two4{
+    background-color: rgb(40, 148, 112);
+    height: 50px;
+    width: 50%;
+}
+.two5{
+    background-color: goldenrod;
+    height: 50px;
+    width: 50%;
+}
+.two6{
+    background-color: rgb(24, 201, 24);
+    height: 50px;
+    width: 50%;
+}
+.color7{
+    display: flex;
+}
+.three{
+    background-color: rgb(226, 43, 98);
+    height: 50px;
+    width: 50%;
+}
+.three1{
+    background-color: aqua;
+    height: 50px;
+    width: 50%;
+}
+.three2{
+    background-color: rgb(238, 79, 16);
+    height: 50px;
+    width: 50%;
+}
+.three3{
+    background-color: black;
+    height: 50px;
+    width: 50%;
+}
+.three4{
+    background-color: orange;
+    height: 50px;
+    width: 50%;
+}
+.three5{
+    background-color: red;
+    height: 50px;
+    width: 50%;
+}
+.three6{
+    background-color: beige;
+    height: 50px;
+    width: 50%;
+}
+.color8{
+    display: flex;
+}
+.four{
+    background-color: rgb(55, 27, 155);
+    height: 50px;
+    width: 50%;
+}
+.four1{
+    background-color: brown;
+    height: 50px;
+    width: 50%;
+}
+.four2{
+    background-color: goldenrod;
+    height: 50px;
+    width: 50%;
+}
+.four3{
+    background-color: rgb(255, 1, 192);
+    height: 50px;
+    width: 50%;
+}
+.four4{
+    background-color:blueviolet;
+    height: 50px;
+    width: 50%;
+}
+.four5{
+    background-color: rgb(83, 12, 12);
+    height: 50px;
+    width: 50%;
+}
+.four6{
+    background-color: antiquewhite;
+    height: 50px;
+    width: 50%;
+}
+.four7{
+    background-color: black;
+    height: 50px;
+    width: 50%;
+}
+.color9{
+    display: flex;
+}
+.five{
+    background-color: rgb(5, 56, 56);
+    height: 50px;
+    width: 50%;
+}
+.five1{
+    background-color: gray;
+    height: 50px;
+    width: 50%;
+}
+.five2{
+    background-color: brown;
+    height: 50px;
+    width: 50%;
+}
+.five3{
+    background-color: black;
+    height: 50px;
+    width: 50%;
+}
+.five4{
+    background-color: yellow;
+    height: 50px;
+    width: 50%;
+}
+.five5{
+    background-color: green;
+    height: 50px;
+    width: 50%;
+}
+.five6{
+    background-color: rebeccapurple;
+    height: 50px;
+    width: 50%;
+}
+.five7{
+    background-color: aqua;
+    height: 50px;
+    width: 50%;
+}
+.five8{
+    background-color: blue;
+    height: 50px;
+    width: 50%;
+}
+.color10{
+    display: flex;
+}
+.six{
+    background-color: aqua;
+    height: 50px;
+    width: 50%;
+}
+.six1{
+    background-color:magenta;
+    height: 50px;
+    width: 50%;
+}
+.six2{
+    background-color:chartreuse;
+    height: 50px;
+    width: 50%;
+}
+.six3{
+    background-color: wheat;
+    height: 50px;
+    width: 50%;
+}
+.six4{
+    background-color: rgb(15, 196, 135);
+    height: 50px;
+    width: 50%;
+}
+.six5{
+    background-color:seagreen;
+    height: 50px;
+    width: 50%;
+}
+.six6{
+    background-color:indianred;
+    height: 50px;
+    width: 50%;
+}
+.six7{
+    background-color: darkblue;
+    height: 50px;
+    width: 50%;
+}
+.six8{
+    background-color:gold;
+    height: 50px;
+    width: 50%;
+}
+.six9{
+    background-color: red;
+    height: 50px;
+    width: 50%;
+}
